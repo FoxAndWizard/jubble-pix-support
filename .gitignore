@@ -1,0 +1,17 @@
+# JetBrains IDE files
+.idea/
+
+# macOS
+.DS_Store
+
+# Node modules (if applicable in future)
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
